@@ -1,5 +1,9 @@
 #  Rock paper scissors game.
 ![obraz](https://user-images.githubusercontent.com/96210491/193814525-dba9b2fe-8aaf-4ac2-a741-b6683ca24cfa.png)
+## Technology
+* HTML
+* CSS
+* JS (JavaScript)
 ## Contents
 * [Array](#Array)
 * [Instruction](#Instruction)
